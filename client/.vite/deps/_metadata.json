@@ -1,0 +1,193 @@
+{
+  "hash": "e59a3540",
+  "configHash": "933d1098",
+  "lockfileHash": "3a57e6ad",
+  "browserHash": "5654c72f",
+  "optimized": {
+    "@mui/icons-material/Add": {
+      "src": "../../node_modules/@mui/icons-material/esm/Add.js",
+      "file": "@mui_icons-material_Add.js",
+      "fileHash": "c575c5b8",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Edit": {
+      "src": "../../node_modules/@mui/icons-material/esm/Edit.js",
+      "file": "@mui_icons-material_Edit.js",
+      "fileHash": "46e4c6d1",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Search": {
+      "src": "../../node_modules/@mui/icons-material/esm/Search.js",
+      "file": "@mui_icons-material_Search.js",
+      "fileHash": "1c5bc237",
+      "needsInterop": false
+    },
+    "@mui/icons-material/TableRows": {
+      "src": "../../node_modules/@mui/icons-material/esm/TableRows.js",
+      "file": "@mui_icons-material_TableRows.js",
+      "fileHash": "c4f59bc8",
+      "needsInterop": false
+    },
+    "@mui/icons-material/ViewModule": {
+      "src": "../../node_modules/@mui/icons-material/esm/ViewModule.js",
+      "file": "@mui_icons-material_ViewModule.js",
+      "fileHash": "646aba14",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/esm/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "c5385d4c",
+      "needsInterop": false
+    },
+    "@mui/material/CssBaseline": {
+      "src": "../../node_modules/@mui/material/esm/CssBaseline/index.js",
+      "file": "@mui_material_CssBaseline.js",
+      "fileHash": "d118b537",
+      "needsInterop": false
+    },
+    "@mui/material/Paper": {
+      "src": "../../node_modules/@mui/material/esm/Paper/index.js",
+      "file": "@mui_material_Paper.js",
+      "fileHash": "0271e784",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/esm/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "9e8c1ea9",
+      "needsInterop": false
+    },
+    "@mui/material/Table": {
+      "src": "../../node_modules/@mui/material/esm/Table/index.js",
+      "file": "@mui_material_Table.js",
+      "fileHash": "cf183005",
+      "needsInterop": false
+    },
+    "@mui/material/TableBody": {
+      "src": "../../node_modules/@mui/material/esm/TableBody/index.js",
+      "file": "@mui_material_TableBody.js",
+      "fileHash": "0b079aab",
+      "needsInterop": false
+    },
+    "@mui/material/TableCell": {
+      "src": "../../node_modules/@mui/material/esm/TableCell/index.js",
+      "file": "@mui_material_TableCell.js",
+      "fileHash": "9868a92c",
+      "needsInterop": false
+    },
+    "@mui/material/TableContainer": {
+      "src": "../../node_modules/@mui/material/esm/TableContainer/index.js",
+      "file": "@mui_material_TableContainer.js",
+      "fileHash": "696ede9b",
+      "needsInterop": false
+    },
+    "@mui/material/TableHead": {
+      "src": "../../node_modules/@mui/material/esm/TableHead/index.js",
+      "file": "@mui_material_TableHead.js",
+      "fileHash": "aa27107a",
+      "needsInterop": false
+    },
+    "@mui/material/TableRow": {
+      "src": "../../node_modules/@mui/material/esm/TableRow/index.js",
+      "file": "@mui_material_TableRow.js",
+      "fileHash": "1c022899",
+      "needsInterop": false
+    },
+    "@tinymce/tinymce-react": {
+      "src": "../../node_modules/@tinymce/tinymce-react/lib/es2015/main/ts/index.js",
+      "file": "@tinymce_tinymce-react.js",
+      "fileHash": "2f9ff0f8",
+      "needsInterop": false
+    },
+    "openai": {
+      "src": "../../node_modules/openai/index.mjs",
+      "file": "openai.js",
+      "fileHash": "5a4d0a04",
+      "needsInterop": false
+    },
+    "prop-types": {
+      "src": "../../node_modules/prop-types/index.js",
+      "file": "prop-types.js",
+      "fileHash": "2d5fe1de",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "718bfe1a",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2ef16695",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-6GXH7RYE": {
+      "file": "chunk-6GXH7RYE.js"
+    },
+    "chunk-OAZAAUMI": {
+      "file": "chunk-OAZAAUMI.js"
+    },
+    "chunk-R7K2KTZV": {
+      "file": "chunk-R7K2KTZV.js"
+    },
+    "chunk-ZU5ABXSN": {
+      "file": "chunk-ZU5ABXSN.js"
+    },
+    "chunk-HBKAHD3S": {
+      "file": "chunk-HBKAHD3S.js"
+    },
+    "chunk-W2C4WWVE": {
+      "file": "chunk-W2C4WWVE.js"
+    },
+    "chunk-XKHW6OCQ": {
+      "file": "chunk-XKHW6OCQ.js"
+    },
+    "chunk-63D745K3": {
+      "file": "chunk-63D745K3.js"
+    },
+    "chunk-GAYJZZSJ": {
+      "file": "chunk-GAYJZZSJ.js"
+    },
+    "chunk-ZAMIDGDQ": {
+      "file": "chunk-ZAMIDGDQ.js"
+    },
+    "chunk-HCWAN6T3": {
+      "file": "chunk-HCWAN6T3.js"
+    },
+    "chunk-DQWUASVM": {
+      "file": "chunk-DQWUASVM.js"
+    },
+    "chunk-FFJPZYX5": {
+      "file": "chunk-FFJPZYX5.js"
+    },
+    "chunk-DTUFP5XG": {
+      "file": "chunk-DTUFP5XG.js"
+    },
+    "chunk-3FXZ6TFZ": {
+      "file": "chunk-3FXZ6TFZ.js"
+    },
+    "chunk-IWYBCHM7": {
+      "file": "chunk-IWYBCHM7.js"
+    },
+    "chunk-U4SM2JFN": {
+      "file": "chunk-U4SM2JFN.js"
+    },
+    "chunk-2WDQDCDP": {
+      "file": "chunk-2WDQDCDP.js"
+    },
+    "chunk-6GAV2S6I": {
+      "file": "chunk-6GAV2S6I.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}

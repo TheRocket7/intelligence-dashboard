@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1749373587380,
+    "fullName": "Nemanja Milanovic",
+    "username": "nemanja.viewer",
+    "password": "password",
+    "role": "Viewer"
+  },
+  {
+    "id": 1749373618727,
+    "fullName": "Sebastian Milanovic",
+    "username": "sebastian.admin",
+    "password": "password",
+    "role": "Admin"
+  }
+]

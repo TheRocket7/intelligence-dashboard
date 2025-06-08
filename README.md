@@ -22,7 +22,7 @@ After that:
 
 ## AI integration
 
-First go to .ebv and change
+First go to .env in server project and change
 
 ```bash
   OPENAI_API_KEY=[put-valid-key]
